@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-07
 
-## Published — 16 platforms live
+## Published — 17 platforms live
 
 | # | Platform | URL | Status |
 |---|----------|-----|--------|
@@ -23,6 +23,8 @@ Last updated: 2026-04-07
 | 15 | Zenodo | https://zenodo.org/records/19455155 (DOI: 10.5281/zenodo.19455155) | Live |
 | 16 | Nostr | https://njump.me/npub1jcrh09dkrsk67s6qtmgg575cg5mh8pt0drj2rg9xlmz94j2g0ckqu8qdj6 | Live |
 
+| 17 | Schema.org | https://github.com/schemaorg/schemaorg/issues/4792 | Live |
+
 ## Needs Manual Authentication / Submission
 
 | # | Platform | Status | Notes |
@@ -40,5 +42,5 @@ Last updated: 2026-04-07
 | 27 | SSRN | Needs manual submit | Upload at papers.ssrn.com |
 | 28 | Wikidata | Needs manual entry | Create entity at wikidata.org |
 | 29 | ORKG | Needs manual entry | Create paper at orkg.org |
-| 30 | Schema.org | Needs GitHub issue | Submit to schemaorg/schemaorg |
+| 30 | ~~Schema.org~~ | ~~Done~~ | Moved to live list above |
 | 31 | Mendeley Data | Needs manual submit | Upload at data.mendeley.com |

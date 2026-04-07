@@ -2,59 +2,65 @@
 
 ## Phase 1: Content Creation
 - [x] Project scaffolding
-- [ ] Dataset A: VOC Regulatory Limits (~800 rows)
-- [ ] Dataset B: Healthcare Product VOC Matrix (~6,000 rows)
-- [ ] Python engine (FastAPI)
-- [ ] Rust engine (Actix-web)
-- [ ] Java engine (Maven)
-- [ ] Ruby engine (Sinatra)
-- [ ] Elixir engine (Plug)
-- [ ] PHP engine (vanilla)
-- [ ] Go engine (net/http)
-- [ ] Main README.md
-- [ ] README-facility-managers.md
-- [ ] Jupyter notebook
-- [ ] PDF white paper (ReportLab + Binx style)
-- [ ] Sphinx documentation
-- [ ] Observable notebook template
-- [ ] Docker image
-- [ ] Package configs (pyproject.toml, package.json, etc.)
+- [x] Dataset A: VOC Regulatory Limits (650 rows)
+- [x] Dataset B: Healthcare Product VOC Matrix (5,000 rows)
+- [x] Python engine (FastAPI)
+- [x] Rust engine (Actix-web)
+- [x] Java engine (Maven)
+- [x] Ruby engine (Sinatra)
+- [x] Elixir engine (Plug)
+- [x] PHP engine (vanilla)
+- [x] Go engine (net/http)
+- [x] Main README.md
+- [x] README-facility-managers.md
+- [x] Jupyter notebook
+- [x] PDF white paper (ReportLab + Binx style)
+- [x] Sphinx documentation
+- [x] Observable notebook template
+- [x] Docker image
+- [x] Package configs (pyproject.toml, package.json, etc.)
 
 ## Phase 2: Git & Hosting
-- [ ] Initialize git repo
-- [ ] Create GitHub repo
-- [ ] Configure all remotes (GitLab, Codeberg, SourceHut, Launchpad)
-- [ ] Push to all git hosts
-- [ ] Host PDF on binx.ca
+- [x] Initialize git repo
+- [x] Create GitHub repo
+- [x] Configure all remotes (GitLab, Codeberg, SourceHut, Launchpad)
+- [x] Push to all git hosts
+- [x] Host PDF on binx.ca
+- [x] Update binx.ca guides index page
 
 ## Phase 3: Package Registries
-- [ ] npm publish
-- [ ] PyPI publish
-- [ ] Crates.io publish
-- [ ] Maven Central publish
-- [ ] RubyGems publish
-- [ ] Hex.pm publish
-- [ ] Packagist publish
-- [ ] pkg.go.dev publish
+- [x] npm publish (@davecook/healthcare-voc-compliance)
+- [x] PyPI publish (healthcare-voc-compliance)
+- [x] Crates.io publish (healthcare-voc-engine)
+- [x] Maven Central publish (healthcare-voc-engine)
+- [x] RubyGems publish (healthcare_voc_compliance)
+- [x] Hex.pm publish (healthcare_voc)
+- [x] pkg.go.dev indexed
+- [ ] Packagist submit (manual — packagist.org/packages/submit)
 
 ## Phase 4: Academic Platforms
-- [ ] Zenodo
-- [ ] OSF
-- [ ] Hugging Face
-- [ ] Dryad
-- [ ] Harvard Dataverse
-- [ ] SocArXiv
-- [ ] SSRN
-- [ ] Internet Archive
+- [x] Zenodo (DOI: 10.5281/zenodo.19455155)
+- [ ] OSF (manual)
+- [ ] Hugging Face (needs re-auth)
+- [ ] Dryad (manual)
+- [ ] Harvard Dataverse (manual)
+- [ ] SocArXiv (manual)
+- [ ] SSRN (manual)
+- [ ] Internet Archive (needs re-auth)
 
 ## Phase 5: Knowledge Graph & Decentralized
-- [ ] Wikidata
-- [ ] ORKG
-- [ ] Schema.org
-- [ ] Mendeley Data
-- [ ] Nostr
+- [ ] Wikidata (manual)
+- [ ] ORKG (manual)
+- [ ] Schema.org (GitHub issue)
+- [ ] Mendeley Data (manual)
+- [x] Nostr (1 article + 4 notes on 6 relays)
 
 ## Phase 6: Remaining Platforms
-- [ ] ReadTheDocs
-- [ ] Kaggle
-- [ ] Docker Hub
+- [ ] ReadTheDocs (manual import)
+- [ ] Kaggle (manual upload)
+- [x] Docker Hub (davecook1985/healthcare-voc-compliance)
+- [ ] ObservableHQ (manual paste)
+
+## Summary
+- **Automated platforms published: 16**
+- **Manual platforms remaining: 15**
