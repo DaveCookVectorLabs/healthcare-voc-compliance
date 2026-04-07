@@ -1,0 +1,7 @@
+engines/rust/target/
+__pycache__/
+*.pyc
+.git/
+SESSION_STATE.md
+PUBLISH_CHECKLIST.md
+.claude/
