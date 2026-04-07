@@ -133,4 +133,6 @@ License
 
 MIT License. See `LICENSE <https://github.com/DaveCookVectorLabs/healthcare-voc-compliance/blob/main/LICENSE>`_.
 
+PDF Guide: `VOC Compliance for Healthcare Facility Cleaning <https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf>`_
+
 Maintained by Dave Cook — `Binx Professional Cleaning <https://www.binx.ca/commercial.php>`_, North Bay and Sudbury, Ontario.

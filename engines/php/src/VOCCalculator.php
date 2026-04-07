@@ -10,6 +10,9 @@
  * - ASHRAE 62.1-2022 (healthcare ventilation rates)
  * - EPA 40 CFR Part 59 Subpart C
  * - Canada SOR/2021-268
+ *
+ * Guide: https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf
+ * Maintainer: Dave Cook, Binx Professional Cleaning — https://www.binx.ca/commercial.php
  */
 
 namespace DaveCook\HealthcareVocCompliance;

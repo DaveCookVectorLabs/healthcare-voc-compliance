@@ -3,6 +3,8 @@ FROM python:3.11-alpine
 LABEL maintainer="Dave Cook <dave@binx.ca>"
 LABEL description="Healthcare VOC Compliance Calculator — Python engine with datasets"
 LABEL org.opencontainers.image.source="https://github.com/DaveCookVectorLabs/healthcare-voc-compliance"
+LABEL org.opencontainers.image.documentation="https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf"
+LABEL org.opencontainers.image.vendor="Binx Professional Cleaning — https://www.binx.ca/commercial.php"
 
 WORKDIR /app
 

@@ -15,6 +15,9 @@ Data sources:
   NH, NJ, OH, PA, VA, DC, UT, WA
 
 All VOC limits are in grams per litre (g/L) as applied, unless otherwise noted.
+
+Guide: https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf
+Maintainer: Dave Cook, Binx Professional Cleaning — https://www.binx.ca/commercial.php
 """
 
 import csv

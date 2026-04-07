@@ -12,6 +12,9 @@ use std::path::PathBuf;
 /// Reference:
 /// - OSHA 29 CFR 1910.1000 Table Z-1 (TVOC PEL: 300 mg/m³)
 /// - ASHRAE 62.1-2022 (healthcare ventilation rates)
+///
+/// Guide: https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf
+/// Maintainer: Dave Cook, Binx Professional Cleaning — https://www.binx.ca/commercial.php
 
 const OSHA_TVOC_PEL: f64 = 300.0;
 const SQFT_TO_SQM: f64 = 0.09290304;

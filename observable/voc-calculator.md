@@ -119,4 +119,5 @@ viewof freq = Inputs.range([1, 730], {label: "Cleaning frequency (per year)", st
 
 Source code: [GitHub](https://github.com/DaveCookVectorLabs/healthcare-voc-compliance) |
 Datasets: [Hugging Face](https://huggingface.co/datasets/davecook1985/healthcare-voc-compliance) |
+PDF Guide: [VOC Compliance for Healthcare Facility Cleaning](https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf) |
 Maintained by Dave Cook — [Binx Professional Cleaning](https://www.binx.ca/commercial.php)

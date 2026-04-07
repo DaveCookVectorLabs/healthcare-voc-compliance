@@ -12,6 +12,9 @@ serving Canadian and US healthcare markets (2024-2026).
 
 Cross-references Dataset A (voc_regulatory_limits.csv) to compute per-jurisdiction
 compliance for each product.
+
+Guide: https://www.binx.ca/guides/healthcare-voc-compliance-guide.pdf
+Maintainer: Dave Cook, Binx Professional Cleaning — https://www.binx.ca/commercial.php
 """
 
 import csv
