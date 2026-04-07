@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-07
 
-## Published — 21 platforms live
+## Published — 27 platforms live
 
 | # | Platform | URL | Status |
 |---|----------|-----|--------|
@@ -26,22 +26,20 @@ Last updated: 2026-04-07
 | 18 | Hugging Face | https://huggingface.co/datasets/davecook1985/healthcare-voc-compliance | Live |
 | 19 | Kaggle Dataset | https://www.kaggle.com/datasets/davecook1985/healthcare-voc-compliance | Live |
 | 20 | Kaggle Notebook | https://www.kaggle.com/code/davecook1985/healthcare-voc-compliance-analysis | Live |
-
 | 21 | Internet Archive | https://archive.org/details/healthcare-voc-compliance-binx | Live |
+| 22 | ReadTheDocs | https://healthcare-voc-compliance.readthedocs.io/ | Live |
+| 23 | OSF | https://osf.io/eaux4/ | Live |
+| 24 | Dryad | DOI: 10.5061/dryad.4mw6m90rs (pending curation) | Submitted |
+| 25 | Harvard Dataverse | DOI: 10.7910/DVN/11UDHB (pending review) | Submitted |
+| 26 | SocArXiv | https://osf.io/preprints/socarxiv/bjx7g_v1 (pending moderation) | Submitted |
+| 27 | Wikidata | https://www.wikidata.org/wiki/Q138975783 | Live |
+| 28 | ORKG | Done manually by user | Live |
 
-## Needs Manual Web Login (10 remaining)
+## Remaining (4)
 
 | # | Platform | Action Needed |
 |---|----------|---------------|
-| 21 | Packagist | Submit at packagist.org/packages/submit with GitHub URL |
-| 22 | ReadTheDocs | Import at readthedocs.org/dashboard/import |
-| 23 | ObservableHQ | Create notebook, paste from observable/voc-calculator.md |
-| ~~24~~ | ~~Internet Archive~~ | ~~Done — moved to live list~~ |
-| 25 | OSF | Create preprint at osf.io |
-| 26 | Dryad | Submit dataset at datadryad.org |
-| 27 | Harvard Dataverse | Upload at dataverse.harvard.edu |
-| 28 | SocArXiv | Submit via osf.io/preprints/socarxiv |
-| 29 | SSRN | Upload at papers.ssrn.com |
-| 30 | Wikidata | Create entity at wikidata.org |
-| 31 | ORKG | Create paper at orkg.org |
+| 29 | Packagist | Submit at packagist.org/packages/submit (needs web login) |
+| 30 | ObservableHQ | Create notebook, paste from observable/voc-calculator.md |
+| 31 | SSRN | Upload PDF at papers.ssrn.com |
 | 32 | Mendeley Data | Upload at data.mendeley.com |
