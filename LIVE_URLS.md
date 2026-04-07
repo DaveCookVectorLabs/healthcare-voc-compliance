@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-07
 
-## Published — 27 platforms live
+## Published — 30 platforms live
 
 | # | Platform | URL | Status |
 |---|----------|-----|--------|
@@ -35,11 +35,13 @@ Last updated: 2026-04-07
 | 27 | Wikidata | https://www.wikidata.org/wiki/Q138975783 | Live |
 | 28 | ORKG | Done manually by user | Live |
 
-## Remaining (4)
+| 29 | Mendeley Data | https://data.mendeley.com/datasets/gttbkk62xg/1 | Live |
+
+| 30 | Packagist | https://packagist.org/packages/davecook/healthcare-voc-compliance | Live |
+
+## Remaining (2)
 
 | # | Platform | Action Needed |
 |---|----------|---------------|
-| 29 | Packagist | Submit at packagist.org/packages/submit (needs web login) |
-| 30 | ObservableHQ | Create notebook, paste from observable/voc-calculator.md |
-| 31 | SSRN | Upload PDF at papers.ssrn.com |
-| 32 | Mendeley Data | Upload at data.mendeley.com |
+| 31 | ObservableHQ | Create notebook, paste from observable/voc-calculator.md |
+| 32 | SSRN | Upload PDF at papers.ssrn.com |
