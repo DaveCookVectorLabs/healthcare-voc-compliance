@@ -1,0 +1,12 @@
+[package]
+name = "healthcare-voc-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Healthcare VOC compliance calculator engine — computes VOC exposure, OSHA PEL comparison, and multi-jurisdiction regulatory compliance for cleaning products used in healthcare facilities."
+license = "MIT"
+repository = "https://github.com/DaveCookVectorLabs/healthcare-voc-compliance"
+keywords = ["voc", "healthcare", "compliance", "cleaning", "osha"]
+categories = ["command-line-utilities", "science"]
+authors = ["Dave Cook <dave@binx.ca>"]
+
+[dependencies]

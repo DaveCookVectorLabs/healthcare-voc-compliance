@@ -1,0 +1,17 @@
+SESSION_STATE.md
+PUBLISH_CHECKLIST.md
+.claude/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+target/
+node_modules/
+_build/
+deps/
+.mix/
+vendor/
+*.class
+.DS_Store
+.env

@@ -1,0 +1,23 @@
+{
+  "id": "davecook1985/healthcare-voc-compliance-analysis",
+  "title": "Healthcare VOC Compliance Analysis — 26 Jurisdictions",
+  "code_file": "../notebooks/voc_compliance_analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "voc",
+    "healthcare",
+    "compliance",
+    "regulatory",
+    "cleaning",
+    "osha",
+    "epa",
+    "carb"
+  ],
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

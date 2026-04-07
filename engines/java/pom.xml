@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>io.github.davecookvectorlabs</groupId>
+    <artifactId>healthcare-voc-engine</artifactId>
+    <version>0.1.0</version>
+    <packaging>jar</packaging>
+
+    <name>Healthcare VOC Compliance Engine</name>
+    <description>Healthcare VOC compliance calculator — computes VOC exposure, OSHA PEL comparison, and multi-jurisdiction regulatory compliance for cleaning products used in healthcare facilities.</description>
+    <url>https://github.com/DaveCookVectorLabs/healthcare-voc-compliance</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Dave Cook</name>
+            <email>dave@binx.ca</email>
+            <organization>Binx Professional Cleaning</organization>
+            <organizationUrl>https://www.binx.ca/commercial.php</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/DaveCookVectorLabs/healthcare-voc-compliance.git</connection>
+        <developerConnection>scm:git:ssh://github.com/DaveCookVectorLabs/healthcare-voc-compliance.git</developerConnection>
+        <url>https://github.com/DaveCookVectorLabs/healthcare-voc-compliance</url>
+    </scm>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+</project>

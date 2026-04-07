@@ -1,0 +1,24 @@
+{
+  "name": "@davecook/healthcare-voc-compliance",
+  "version": "0.1.0",
+  "description": "Healthcare VOC compliance calculator — computes VOC exposure, OSHA PEL comparison, and multi-jurisdiction regulatory compliance for cleaning products used in healthcare facilities.",
+  "main": "engines/python/engine.py",
+  "keywords": [
+    "voc",
+    "healthcare",
+    "compliance",
+    "cleaning",
+    "osha",
+    "facility-management",
+    "regulatory",
+    "epa",
+    "carb"
+  ],
+  "author": "Dave Cook <dave@binx.ca>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaveCookVectorLabs/healthcare-voc-compliance.git"
+  },
+  "homepage": "https://www.binx.ca/commercial.php"
+}
