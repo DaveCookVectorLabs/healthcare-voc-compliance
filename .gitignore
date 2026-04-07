@@ -17,3 +17,4 @@ vendor/
 .env
 .npmrc
 TODO.md
+LIVE_URLS.md
