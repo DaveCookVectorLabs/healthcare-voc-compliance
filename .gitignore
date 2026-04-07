@@ -15,3 +15,4 @@ vendor/
 *.class
 .DS_Store
 .env
+.npmrc

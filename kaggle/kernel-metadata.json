@@ -1,6 +1,6 @@
 {
   "id": "davecook1985/healthcare-voc-compliance-analysis",
-  "title": "Healthcare VOC Compliance Analysis — 26 Jurisdictions",
+  "title": "Healthcare VOC Compliance Analysis",
   "code_file": "../notebooks/voc_compliance_analysis.ipynb",
   "language": "python",
   "kernel_type": "notebook",

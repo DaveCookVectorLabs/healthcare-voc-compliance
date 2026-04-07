@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-07
 
-## Published — 17 platforms live
+## Published — 21 platforms live
 
 | # | Platform | URL | Status |
 |---|----------|-----|--------|
@@ -22,25 +22,26 @@ Last updated: 2026-04-07
 | 14 | pkg.go.dev | https://pkg.go.dev/github.com/DaveCookVectorLabs/healthcare-voc-compliance | Live |
 | 15 | Zenodo | https://zenodo.org/records/19455155 (DOI: 10.5281/zenodo.19455155) | Live |
 | 16 | Nostr | https://njump.me/npub1jcrh09dkrsk67s6qtmgg575cg5mh8pt0drj2rg9xlmz94j2g0ckqu8qdj6 | Live |
-
 | 17 | Schema.org | https://github.com/schemaorg/schemaorg/issues/4792 | Live |
+| 18 | Hugging Face | https://huggingface.co/datasets/davecook1985/healthcare-voc-compliance | Live |
+| 19 | Kaggle Dataset | https://www.kaggle.com/datasets/davecook1985/healthcare-voc-compliance | Live |
+| 20 | Kaggle Notebook | https://www.kaggle.com/code/davecook1985/healthcare-voc-compliance-analysis | Live |
 
-## Needs Manual Authentication / Submission
+| 21 | Internet Archive | https://archive.org/details/healthcare-voc-compliance-binx | Live |
 
-| # | Platform | Status | Notes |
-|---|----------|--------|-------|
-| 17 | Hugging Face | Needs re-auth | `huggingface-cli login` needed |
-| 18 | Internet Archive | Needs re-auth | `ia configure` needed |
-| 19 | Packagist | Needs manual submit | Submit at packagist.org/packages/submit |
-| 20 | ReadTheDocs | Needs manual import | Import at readthedocs.org/dashboard/import |
-| 21 | Kaggle | Needs manual upload | Upload notebook via kaggle.com |
-| 22 | ObservableHQ | Needs manual paste | Create notebook at observablehq.com |
-| 23 | OSF | Needs manual submit | Create preprint at osf.io |
-| 24 | Dryad | Needs manual submit | Submit at datadryad.org |
-| 25 | Harvard Dataverse | Needs manual submit | Upload at dataverse.harvard.edu |
-| 26 | SocArXiv | Needs OSF preprint | Via osf.io/preprints/socarxiv |
-| 27 | SSRN | Needs manual submit | Upload at papers.ssrn.com |
-| 28 | Wikidata | Needs manual entry | Create entity at wikidata.org |
-| 29 | ORKG | Needs manual entry | Create paper at orkg.org |
-| 30 | ~~Schema.org~~ | ~~Done~~ | Moved to live list above |
-| 31 | Mendeley Data | Needs manual submit | Upload at data.mendeley.com |
+## Needs Manual Web Login (10 remaining)
+
+| # | Platform | Action Needed |
+|---|----------|---------------|
+| 21 | Packagist | Submit at packagist.org/packages/submit with GitHub URL |
+| 22 | ReadTheDocs | Import at readthedocs.org/dashboard/import |
+| 23 | ObservableHQ | Create notebook, paste from observable/voc-calculator.md |
+| ~~24~~ | ~~Internet Archive~~ | ~~Done — moved to live list~~ |
+| 25 | OSF | Create preprint at osf.io |
+| 26 | Dryad | Submit dataset at datadryad.org |
+| 27 | Harvard Dataverse | Upload at dataverse.harvard.edu |
+| 28 | SocArXiv | Submit via osf.io/preprints/socarxiv |
+| 29 | SSRN | Upload at papers.ssrn.com |
+| 30 | Wikidata | Create entity at wikidata.org |
+| 31 | ORKG | Create paper at orkg.org |
+| 32 | Mendeley Data | Upload at data.mendeley.com |
