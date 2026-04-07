@@ -16,3 +16,4 @@ vendor/
 .DS_Store
 .env
 .npmrc
+TODO.md
